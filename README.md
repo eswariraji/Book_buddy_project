@@ -38,5 +38,5 @@ Follow these simple steps to run BookBuddy locally on your computer.
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/eswariraji/BookBuddy.git
-cd BookBuddy
+git clone https://github.com/eswariraji/Book_buddy_project.git
+cd Book_buddy_project
