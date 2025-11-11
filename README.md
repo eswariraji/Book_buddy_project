@@ -2,9 +2,9 @@
 A Django web app for managing and sharing books
 # 📚 BookBuddy - Django Web Application
 
-**BookBuddy** is a simple and user-friendly **Django-based web application** that allows users to **register, log in, and manage books**.  
-Users can **add, edit, delete, search, and download books** — but they can **only edit or delete their own uploads**, ensuring secure and personalized access.  
-The app also includes an **About page**, an **Admin dashboard**, and supports file uploads using Django’s media handling system.
+**BookBuddy is a simple and user-friendly Django web application that allows users to **register, log in, and manage their books**.  
+Users can **add, edit, delete, and download** books — but they can **only edit or delete the books they uploaded**.  
+Other users can **view and download** shared books.
 
 ---
 
